@@ -1,2 +1,2 @@
 # coWinVaccineAlerts
-Python utility that sends email alerts for vaccine availability on coWin Portal !
+Python utility that sends desktop notification alerts for vaccine availability on coWin Portal !
